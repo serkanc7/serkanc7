@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan Çelik</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript, Vue.js**
+- 🌱 I’m currently learning **Javascript, Vue.js, React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
